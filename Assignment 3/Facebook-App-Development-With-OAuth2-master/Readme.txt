@@ -1,2 +1,3 @@
 Visit my blog to learn more about Facebook App Development with OAuth 2.0
-Blog Post URL : https://informationsecfirst.wordpress.com/2017/05/20/facebook-app-development-with-oauth-2-0/?preview_id=174&preview_nonce=86ca683738
+Blog Post URL :
+https://sanjeevancyca.blogspot.com/2018/05/app-development-with-oauth-20-framework.html
